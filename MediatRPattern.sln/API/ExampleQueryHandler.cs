@@ -2,7 +2,7 @@
 
 namespace API
 {
-    // further staging commit
+    // further staging commit Final changes commit 2
     // comment 2
     public class ExampleQueryHandler : IQueryHandler<ExampleQuery, string>
     {
