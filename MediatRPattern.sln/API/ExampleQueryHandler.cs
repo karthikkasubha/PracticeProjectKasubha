@@ -3,6 +3,7 @@
 namespace API
 {
     // further staging commit
+    // comment 2
     public class ExampleQueryHandler : IQueryHandler<ExampleQuery, string>
     {
         public async Task<string> Handle(ExampleQuery query, CancellationToken cancellationToken)
