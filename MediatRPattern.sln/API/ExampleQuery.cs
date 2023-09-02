@@ -1,7 +1,6 @@
 ﻿namespace API
 {
-    //test dev branch changes - test ss
-    // Final changes commit 1
+    // Fresh commit
     public class ExampleQuery : IQuery<string>
     {
         public Guid Id { get; }
